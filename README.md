@@ -10,9 +10,8 @@
 
 ### About Me
 
-- 🎓 Incoming **PhD student at YunTech** (National Yunlin University of Science and Technology), Taiwan — starting September 2026
+- 🎓 **PhD student at YunTech** (National Yunlin University of Science and Technology), Taiwan — Data Science and AI Applications program
 - 🔬 Research intern at **National Yunlin University of Science and Technology**, working on AI + Digital Twin methods for bioelectrochemical systems
-- 🧠 Building a prototype-guided multimodal transformer for seizure detection (SeizeIT2 dataset)
 - 💻 Backend + full-stack AI developer — Python, Django, FastAPI, Docker, PyTorch
 - 📺 Teaching Explainable AI (XAI) through **Mary Xplains** on YouTube
 - 🌐 Working in both English and Persian (فارسی)
@@ -31,7 +30,6 @@
 
 | Project | Focus |
 |---|---|
-| `seizeit2-multimodal-seizure-transformer` | Multimodal EEG/ECG seizure detection transformer |
 | `appointment-booking-api-django` | Django REST backend |
 | `interpretable-machine-learning-persian-fa` | XAI notes/translation for Mary Xplains |
 
@@ -41,8 +39,6 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=maryammahmoudi1993&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryammahmoudi1993&layout=compact&hide_border=true" />
 
 <img src="https://streak-stats.demolab.com/?user=maryammahmoudi1993&hide_border=true" />
 
